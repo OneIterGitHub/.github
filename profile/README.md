@@ -22,7 +22,13 @@ Here you'll find a collection of my projects, organizing various repositories an
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🐸 <a href="../../Memew">Memew</a></h3>
+      <h3 align="center">🐸 Memew</h3>
+      <p align="center">
+        <span>(</span>
+        <a href="https://github.com/OneIterGitHub/memew_api">API</a> | 
+        <a href="https://github.com/OneIterGitHub/memew_web">WEB/MOBILE</a>
+        <span>)</span>
+      </p>
       <p align="center"><strong>Mobile & Web Platform (Entertainment)</strong></p>
       <p>A dedicated application for meme culture. Includes a mobile app built with <strong>Tamagui</strong> and a supporting API backend.</p>
       <p align="center">
@@ -46,7 +52,13 @@ Here you'll find a collection of my projects, organizing various repositories an
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌍 <a href="../../Triplet">Triplet</a></h3>
+      <h3 align="center">🌍 Triplet</h3>
+      <p align="center">
+        <span>(</span>
+        <a href="https://github.com/OneIterGitHub/triplet_api">API</a> | 
+        <a href="https://github.com/OneIterGitHub/triplet_web">WEB</a>
+        <span>)</span>
+      </p>
       <p align="center"><strong>Trip Planning Solution</strong></p>
       <p>Interactive web application for planning trips. Visualize routes, manage locations, and organize travel plans with Google Maps integration.</p>
       <p align="center">
@@ -56,7 +68,12 @@ Here you'll find a collection of my projects, organizing various repositories an
   </tr>
   <tr>
      <td width="50%" valign="top">
-      <h3 align="center">🎩 <a href="../../Shlyapka">Shlyapka</a></h3>
+      <h3 align="center">🎩 Shlyapka</h3>
+      <p align="center">
+        <span>(</span>
+        <a href="https://github.com/OneIterGitHub/Shlyapka">MOBILE</a>
+        <span>)</span>
+      </p>
       <p align="center"><strong>Party Game</strong></p>
       <p>A digital adaptation of the classic "Hat" game (guess the word). Originally known as the "Hat" game.</p>
       <p align="center">
@@ -64,7 +81,13 @@ Here you'll find a collection of my projects, organizing various repositories an
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌙 <a href="../../Circleep">Circleep</a></h3>
+      <h3 align="center">🌙 Circleep</h3>
+      <p align="center">
+        <span>(</span>
+        <a href="https://github.com/OneIterGitHub/CircleepIOS">IOS</a> | 
+        <a href="https://github.com/OneIterGitHub/CircleepAndroid">ANDROID</a>
+        <span>)</span>
+      </p>
       <p align="center"><strong>Sleep Tracker & Smart Alarm</strong></p>
       <p>Mobile applications for iOS and Android that help track sleep cycles and wake up at the appropriate time.</p>
       <p align="center">
@@ -74,7 +97,13 @@ Here you'll find a collection of my projects, organizing various repositories an
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 <a href="../../Incontextly">Incontextly</a></h3>
+      <h3 align="center">🧠 Incontextly</h3>
+      <p align="center">
+        <span>(</span>
+        <a href="https://github.com/OneIterGitHub/incontextly_api">API</a> | 
+        <a href="https://github.com/OneIterGitHub/incontextly_web">WEB</a>
+        <span>)</span>
+      </p>
       <p align="center"><strong>Web Platform & API</strong></p>
       <p>A full-stack project consisting of a web frontend and a Python-based API backend.</p>
       <p align="center">
@@ -82,7 +111,12 @@ Here you'll find a collection of my projects, organizing various repositories an
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 <a href="../../WebSite">WebSite</a></h3>
+      <h3 align="center">🌐 WebSite</h3>
+      <p align="center">
+        <span>(</span>
+        <a href="https://github.com/OneIterGitHub/WebSite">WEB</a>
+        <span>)</span>
+      </p>
       <p align="center"><strong>Product Landing Page</strong></p>
       <p>Common website hub for all products and projects.</p>
       <p align="center">
