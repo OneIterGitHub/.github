@@ -9,7 +9,12 @@ Here you'll find a collection of my projects, organizing various repositories an
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📱 <a href="../../DoSnapMobile">DoSnap</a></h3>
+      <h3 align="center">📱 DoSnap</h3>
+      <p align="center">
+        <span>(</span>
+        <a href="https://github.com/OneIterGitHub/DoSnapWeb">MOBILE</a>
+        <span>)</span>
+      </p>
       <p align="center"><strong>Mobile Application (Productivity)</strong></p>
       <p>A modern task management application utilizing a clean UI/UX inspired by Microsoft To Do. Features comprehensive list management, task details, and smart groups.</p>
       <p align="center">
@@ -27,7 +32,13 @@ Here you'll find a collection of my projects, organizing various repositories an
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌾 <a href="../../Silo">Silo</a></h3>
+      <h3 align="center">🌾 Silo</h3>
+      <p align="center">
+        <span>(</span>
+        <a href="https://github.com/OneIterGitHub/Silo-api">API</a> | 
+        <a href="https://github.com/OneIterGitHub/Silo-native">MOBILE</a>
+        <span>)</span>
+      </p>
       <p align="center"><strong>Economic Simulation System</strong></p>
       <p>A complex project involving economic modeling and simulation. Features a native client with Zustand and a backend simulation logic.</p>
       <p align="center">
