@@ -53,7 +53,30 @@ Here you'll find a collection of my projects, organizing various repositories an
       </p>
     </td>
     <td width="50%" valign="top">
-       <!-- Empty cell for balance if needed, or add next project here -->
+      <h3 align="center">🌙 <a href="../../Circleep">Circleep</a></h3>
+      <p align="center"><strong>Sleep Tracker & Smart Alarm</strong></p>
+      <p>Mobile applications for iOS and Android that help track sleep cycles and wake up at the appropriate time.</p>
+      <p align="center">
+        <code>Swift</code> <code>Java</code> <code>iOS</code> <code>Android</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 <a href="../../Incontextly">Incontextly</a></h3>
+      <p align="center"><strong>Web Platform & API</strong></p>
+      <p>A full-stack project consisting of a web frontend and a Python-based API backend.</p>
+      <p align="center">
+        <code>TypeScript</code> <code>Python</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 <a href="../../WebSite">WebSite</a></h3>
+      <p align="center"><strong>Product Landing Page</strong></p>
+      <p>Common website hub for all products and projects.</p>
+      <p align="center">
+        <code>HTML</code>
+      </p>
     </td>
   </tr>
 </table>
