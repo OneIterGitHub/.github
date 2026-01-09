@@ -1,53 +1,62 @@
-# 👋 Welcome to OneIter Code Universe
+<div align="center">
+  <img src="./header.svg" width="100%" alt="Welcome to OneIter Code Universe" />
+</div>
 
 Here you'll find a collection of my projects, organizing various repositories and modules for easy access.
 
 ## 📂 Project Index
 
-### 📱 [DoSnap](../../DoSnapMobile)
-**Type:** Mobile Application (Productivity)  
-**Description:** A modern task management application utilizing a clean UI/UX inspired by Microsoft To Do. Features comprehensive list management, task details, and smart groups.  
-**Tech Stack:** `React Native` `Expo` `Redux Toolkit` `React Native Paper` `Expo Router`
-
----
-
-### 🐸 [Memew](../../Memew)
-**Type:** Mobile & Web Platform (Entertainment)  
-**Description:** A dedicated application for meme culture, featuring an optimized mobile experience.  
-**Components:**
-- **[Mobile App](../../Memew/web)**: Built with Expo and **Tamagui** for a high-performance native feel.
-- **[API](../../Memew/api)**: Backend services supporting the platform.
-
-**Tech Stack:** `React Native` `Expo` `Tamagui` `Redux Toolkit`
-
----
-
-### 🌾 [Silo](../../Silo)
-**Type:** Economic Simulation System  
-**Description:** A complex project involving economic modeling and simulation.  
-**Components:**
-- **[Native Client](../../Silo/Silo-native)**: Mobile interface built with React Native and Zustand.
-- **[API](../../Silo/Silo-api)**: Backend architecture for simulation logic.
-
-**Tech Stack:** `React Native` `Expo` `Zustand` `React Navigation`
-
----
-
-### 🌍 [Triplet](../../Triplet)
-**Type:** Trip Planning Solution  
-**Description:** An interactive web application for planning trips, managing locations, and visualizing routes on a map.  
-**Components:**
-- **[Web Client](../../Triplet/triplet_web)**: Feature-rich SPA using Vite and Google Maps API.
-- **[API](../../Triplet/triplet_api)**: Backend services.
-
-**Tech Stack:** `React` `Vite` `TypeScript` `Tailwind CSS` `Redux Toolkit` `React Query` `Google Maps API` `Radix UI`
-
----
-
-### 🎩 [Shlyapka](../../Shlyapka)
-**Type:** Party Game
-**Description:** A digital adaptation of the classic "Hat" game (guess the word). Originally known as the "Hat" game.
-**Tech Stack:** `React Native` `Expo` `TypeScript`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 <a href="../../DoSnapMobile">DoSnap</a></h3>
+      <p align="center"><strong>Mobile Application (Productivity)</strong></p>
+      <p>A modern task management application utilizing a clean UI/UX inspired by Microsoft To Do. Features comprehensive list management, task details, and smart groups.</p>
+      <p align="center">
+        <code>React Native</code> <code>Expo</code> <code>Redux Toolkit</code> <code>React Native Paper</code> <code>Expo Router</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🐸 <a href="../../Memew">Memew</a></h3>
+      <p align="center"><strong>Mobile & Web Platform (Entertainment)</strong></p>
+      <p>A dedicated application for meme culture. Includes a mobile app built with <strong>Tamagui</strong> and a supporting API backend.</p>
+      <p align="center">
+        <code>React Native</code> <code>Expo</code> <code>Tamagui</code> <code>Redux Toolkit</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌾 <a href="../../Silo">Silo</a></h3>
+      <p align="center"><strong>Economic Simulation System</strong></p>
+      <p>A complex project involving economic modeling and simulation. Features a native client with Zustand and a backend simulation logic.</p>
+      <p align="center">
+        <code>React Native</code> <code>Expo</code> <code>Zustand</code> <code>React Navigation</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌍 <a href="../../Triplet">Triplet</a></h3>
+      <p align="center"><strong>Trip Planning Solution</strong></p>
+      <p>Interactive web application for planning trips. Visualize routes, manage locations, and organize travel plans with Google Maps integration.</p>
+      <p align="center">
+        <code>React</code> <code>Vite</code> <code>Tailwind</code> <code>React Query</code> <code>Google Maps</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+     <td width="50%" valign="top">
+      <h3 align="center">🎩 <a href="../../Shlyapka">Shlyapka</a></h3>
+      <p align="center"><strong>Party Game</strong></p>
+      <p>A digital adaptation of the classic "Hat" game (guess the word). Originally known as the "Hat" game.</p>
+      <p align="center">
+        <code>React Native</code> <code>Expo</code> <code>TypeScript</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+       <!-- Empty cell for balance if needed, or add next project here -->
+    </td>
+  </tr>
+</table>
 
 ---
 
