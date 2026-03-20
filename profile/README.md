@@ -2,8 +2,6 @@
   <img src="./header.svg" width="100%" alt="Welcome to OneIter Code Universe" />
 </div>
 
-Here you'll find a collection of my projects, organizing various repositories and modules for easy access.
-
 ## 📂 Projects
 
 <table>
